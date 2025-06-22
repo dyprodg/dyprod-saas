@@ -196,5 +196,3 @@ jobs:
 Dennis Diepolder[www.dennisdiepolder.com](https://www.dennisdiepolder.com)
 
 ---
-
-**Kopierbar. Anpassbar. SaaS-ready. Ohne Schnickschnack.**
